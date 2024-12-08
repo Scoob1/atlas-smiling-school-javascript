@@ -35,9 +35,9 @@
   font-weight: bold;
 }
 
-.btn:hover,
-.btn:active {
-  opacity: var(--opacity-value);
+button:hover,
+button:active {
+  opacity: 0.9;
 }
 
 /* Header / Hero Styles */
